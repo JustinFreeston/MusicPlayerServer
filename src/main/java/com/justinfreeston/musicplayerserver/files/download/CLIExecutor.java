@@ -1,4 +1,4 @@
-package au.com.spotless.justinfreeston.musicplayerserver.files.download;
+package com.justinfreeston.musicplayerserver.files.download;
 
 import java.io.BufferedReader;
 import java.io.IOException;

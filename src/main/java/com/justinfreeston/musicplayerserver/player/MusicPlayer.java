@@ -1,4 +1,4 @@
-package au.com.spotless.justinfreeston.musicplayerserver.player;
+package com.justinfreeston.musicplayerserver.player;
 
 import java.io.File;
 import java.io.IOException;
@@ -6,8 +6,9 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-import au.com.spotless.justinfreeston.musicplayerserver.files.FileManager;
-import au.com.spotless.justinfreeston.musicplayerserver.files.download.Downloader;
+import com.justinfreeston.musicplayerserver.files.FileManager;
+import com.justinfreeston.musicplayerserver.files.download.Downloader;
+
 import kuusisto.tinysound.Music;
 import kuusisto.tinysound.TinySound;
 

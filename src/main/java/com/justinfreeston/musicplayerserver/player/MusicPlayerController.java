@@ -1,4 +1,4 @@
-package au.com.spotless.justinfreeston.musicplayerserver.player;
+package com.justinfreeston.musicplayerserver.player;
 
 public class MusicPlayerController {
 	

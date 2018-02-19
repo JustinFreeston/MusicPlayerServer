@@ -1,11 +1,11 @@
-package au.com.spotless.justinfreeston.musicplayerserver.files;
+package com.justinfreeston.musicplayerserver.files;
 
 import java.io.IOException;
 import java.nio.file.Path;
 
-import au.com.spotless.justinfreeston.musicplayerserver.files.download.Downloader;
-import au.com.spotless.justinfreeston.musicplayerserver.files.download.YouTubeDL;
-import au.com.spotless.justinfreeston.musicplayerserver.files.download.YouTubeDLConfig;
+import com.justinfreeston.musicplayerserver.files.download.Downloader;
+import com.justinfreeston.musicplayerserver.files.download.YouTubeDL;
+import com.justinfreeston.musicplayerserver.files.download.YouTubeDLConfig;
 
 public class DownloadManager {
 	

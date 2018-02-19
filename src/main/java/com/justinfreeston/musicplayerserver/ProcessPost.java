@@ -1,8 +1,8 @@
-package au.com.spotless.justinfreeston.musicplayerserver;
+package com.justinfreeston.musicplayerserver;
 
 import org.json.JSONObject;
 
-import au.com.spotless.justinfreeston.musicplayerserver.player.MusicPlayer;
+import com.justinfreeston.musicplayerserver.player.MusicPlayer;
 
 public class ProcessPost extends MethodRequest {
 	

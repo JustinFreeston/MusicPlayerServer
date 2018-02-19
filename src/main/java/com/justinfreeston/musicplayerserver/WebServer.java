@@ -1,4 +1,4 @@
-package au.com.spotless.justinfreeston.musicplayerserver;
+package com.justinfreeston.musicplayerserver;
 
 import java.io.IOException;
 import java.util.HashMap;

@@ -1,10 +1,10 @@
-package au.com.spotless.justinfreeston.musicplayerserver.files;
+package com.justinfreeston.musicplayerserver.files;
 
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Path;
 
-import au.com.spotless.justinfreeston.musicplayerserver.files.download.Downloader;
+import com.justinfreeston.musicplayerserver.files.download.Downloader;
 
 public class FileManager {
 	
